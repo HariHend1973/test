@@ -1,4 +1,7 @@
 CHANGES file
+<<<<<<< HEAD
    1. git reset --hard HEAD
    2. git fetch origin
    3. git reset --hard origin
+=======
+>>>>>>> 910d72b59c4bf21395f7eff05585d8c432ce5c32
