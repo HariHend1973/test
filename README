@@ -1,1 +1,5 @@
 README files
+test
+   1. git reset --hard HEAD
+   2. git fetch origin
+   3. git reset --hard origin
